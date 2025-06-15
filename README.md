@@ -18,5 +18,6 @@ performance.
 
 ![Screenshot 2025-06-14 180310](https://github.com/user-attachments/assets/0668fc58-8a85-4985-9c42-25ccdedd8b0c)
 
-
+## Result-
+Analysed peak demand hours, detected underutilized time slots and compared weekday vs weekend trends.
 
